@@ -1,8 +1,7 @@
+### Info
 Name: João Macedo  
 Email: joaossmacedo@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/joaossmacedo/](https://www.linkedin.com/in/joaossmacedo/)
-
-
 
 ### Job Experiences
 - Full Stack Developer Intern @ ISI-TICs (apr/2019 - actual)
