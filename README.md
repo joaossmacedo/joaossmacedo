@@ -1,7 +1,8 @@
 ### Info
 Name: João Macedo  
 Email: joaossmacedo@gmail.com  
-LinkedIn: https://www.linkedin.com/in/joaossmacedo  
+LinkedIn: https://www.linkedin.com/in/joaossmacedo
+Kaggle: https://www.kaggle.com/joaossmacedo
 Personal Blog: https://joaossmacedo.github.io/
 
 ### Job Experiences
