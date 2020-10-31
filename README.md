@@ -6,7 +6,8 @@ Kaggle: https://www.kaggle.com/joaossmacedo
 Personal Blog: https://joaossmacedo.github.io/
 
 ### Job Experiences
-- Full Stack Developer Intern @ ISI-TICs (apr/2019 - actual)
+- Full Stack Developer Intern @ ISI-TICs (apr/2019 - out/2020)
+- Research and AI Intern @ di2win (nov/2020 - atual)
 
 ### Education
 - Computer Engineer @ UPE (2017 - actual)
