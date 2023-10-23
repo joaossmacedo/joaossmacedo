@@ -9,7 +9,7 @@ Personal Blog: https://joaossmacedo.github.io/
 - Full Stack Developer Intern @ ISI-TICs (apr/2019 - out/2020)
 - Research and AI Intern @ di2win (nov/2020 - nov/2021)
 - Machine Learning Scientist @ di2win (nov/2021 - oct/2022)
-- Data Scientist @ di2win (oct/2022 - current)
+- Data Scientist @ Neurotech (oct/2022 - current)
 
 ### Education
 - Computer Engineer @ UPE (2017 - 2022)
