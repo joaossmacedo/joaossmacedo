@@ -6,10 +6,13 @@ Kaggle: https://www.kaggle.com/joaossmacedo
 Personal Blog: https://joaossmacedo.github.io/
 
 ### Job Experiences
-- Full Stack Developer Intern @ ISI-TICs (apr/2019 - out/2020)
-- Research and AI Intern @ di2win (nov/2020 - nov/2021)
-- Machine Learning Scientist @ di2win (nov/2021 - oct/2022)
-- Data Scientist @ Neurotech (oct/2022 - current)
+- ISI-TICs
+  - Full Stack Developer Intern (apr/2019 - oct/2020)
+- Di2win
+  - Research and AI Intern (nov/2020 - nov/2021)
+  - Machine Learning Scientist (nov/2021 - oct/2022)
+- Neurotech
+  - Data Scientist (oct/2022 - current)
 
 ### Education
 - Computer Engineer @ UPE (2017 - 2022)
